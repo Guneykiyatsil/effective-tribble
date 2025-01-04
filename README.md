@@ -1,1 +1,1 @@
-# effective-tribble
+# proje
